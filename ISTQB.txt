@@ -1,0 +1,13 @@
+
+test condition. An item or event of a component or system that could be verified by one or more test cases, 
+				e.g. a function, transaction, feature, quality ribute, or structural element. 
+A Test Scenario is defined as any functionality that can be tested. It is also called Test Condition or Test Possibility. 
+As a tester, you may put yourself in the end user's shoes and figure out the real-world scenarios and use cases of the Application Under Test.
+
+https://www.softwaretestinggenius.com/istqb-foundation-level-exam-crash-course-part-8/
+
+https://guide2mobiletesting.blogspot.com/2016/08/istqb-easiest-way-to-solve-statement.html
+
+
+Parsing:
+https://www.vipinajayakumar.com/parsing-text-with-python/
